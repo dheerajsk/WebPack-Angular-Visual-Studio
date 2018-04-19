@@ -1,0 +1,8 @@
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\bin\Angular-Webpack-VisualStudio.dll.config
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\bin\Angular-Webpack-VisualStudio.dll
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\bin\Angular-Webpack-VisualStudio.pdb
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\obj\Debug\Angular-Webpack-VisualStudio.csproj.CoreCompileInputs.cache
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\obj\Debug\Angular-Webpack-VisualStudio.dll
+c:\users\dheeraj.kumar\source\repos\Angular-Webpack-VisualStudio\Angular-Webpack-VisualStudio\obj\Debug\Angular-Webpack-VisualStudio.pdb
